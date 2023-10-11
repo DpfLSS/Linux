@@ -1,5 +1,7 @@
 LINUX CLASS at INCHEON
 ======================
+hello
+-----
 
 C++ CLASS at INCHEON
 --------------------
